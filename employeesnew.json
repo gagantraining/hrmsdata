@@ -1,0 +1,709 @@
+[{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b007"
+  },
+  "is_manager": true,
+  "email": "techprint.in@gmail.com",
+  "employee_id": "2",
+  "phone": "8278778788",
+  "basic_info": [
+    null,
+    {
+      "date_of_birth": {
+        "$date": "2021-03-02T00:00:00Z"
+      },
+      "passport_expiry_date": {
+        "$date": "2021-03-04T00:00:00Z"
+      }
+    },
+    {
+      "first_name": "Rachit Kumar",
+      "last_name": "Tewari",
+      "username": "rkt",
+      "company": "1",
+      "department": "1",
+      "designation": "3",
+      "reports_to": "dummy632000@gmail.com",
+      "gender": "1",
+      "profile_image": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/profile_user.jpg",
+      "employment_of_spouse": "NA",
+      "marital_status": "Single",
+      "nationality": "Indian",
+      "number_of_children": "NA",
+      "passport_number": "SDDBGJNJJ324-23",
+      "religion": "Hindu",
+      "telephone_number": "NA"
+    }
+  ],
+  "joining_details": {
+    "joining_date": {
+      "$date": "2020-01-23T12:00:00Z"
+    },
+    "probation_period": null,
+    "confirmation_date": null
+  },
+  "address": {
+    "present_contact_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b008"
+      },
+      "address": {
+        "address": "A-D, Dewas Grah, Near Pent House",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "pincode": "453123"
+      }
+    },
+    "primary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b009"
+      },
+      "address": {
+        "name": "Simran",
+        "relationship": "Sister",
+        "required_phone": "8982398299",
+        "phone": "8392893923"
+      }
+    },
+    "secondary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00a"
+      },
+      "address": {
+        "name": "Sahil",
+        "relationship": "Brother",
+        "required_phone": "7982392839",
+        "phone": ""
+      }
+    },
+    "permanent_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00b"
+      }
+    }
+  },
+  "resignation_detail": [
+    {},
+    {}
+  ],
+  "module_permission": {
+    "holiday": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00c"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "leave": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00d"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00e"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": false,
+        "export": false
+      }
+    },
+    "project": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00f"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "task": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b010"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    },
+    "chat": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b011"
+      },
+      "permission": {
+        "read": true,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "asset": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b012"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": true
+      }
+    },
+    "timing_sheet": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b013"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b021"
+  },
+  "is_manager": true,
+  "email": "dummy632000@gmail.com",
+  "employee_id": "4",
+  "phone": "7873982738",
+  "basic_info": [
+    null,
+    {
+      "date_of_birth": null
+    },
+    {
+      "first_name": "Aditi",
+      "last_name": "Singh",
+      "username": "aditi",
+      "company": "1",
+      "department": "1",
+      "designation": "2",
+      "reports_to": null,
+      "gender": "1",
+      "profile_image": "http://www.venmond.com/demo/vendroid/img/avatar/big.jpg"
+    }
+  ],
+  "joining_details": {
+    "joining_date": {
+      "$date": "2009-01-31T12:00:00Z"
+    },
+    "probation_period": null,
+    "confirmation_date": null
+  },
+  "address": {
+    "present_contact_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b022"
+      },
+      "address": {
+        "address": null,
+        "state": null,
+        "country": null,
+        "pincode": null
+      }
+    },
+    "primary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b023"
+      }
+    },
+    "secondary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b024"
+      }
+    },
+    "permanent_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b025"
+      }
+    }
+  },
+  "resignation_detail": [
+    {},
+    {}
+  ],
+  "module_permission": {
+    "holiday": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b026"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "leave": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b027"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b028"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": false,
+        "export": false
+      }
+    },
+    "project": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b029"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "task": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b02a"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    },
+    "chat": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b02b"
+      },
+      "permission": {
+        "read": true,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "asset": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b02c"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": true
+      }
+    },
+    "timing_sheet": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b02d"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b014"
+  },
+  "is_manager": false,
+  "email": "raju80968@gmail.com",
+  "employee_id": "3",
+  "phone": "8247337233",
+  "basic_info": [
+    null,
+    {
+      "date_of_birth": null
+    },
+    {
+      "first_name": "Karan",
+      "last_name": null,
+      "username": "k",
+      "company": "1",
+      "department": "1",
+      "designation": "3",
+      "reports_to": "techprint.in@gmail.com",
+      "gender": "1",
+      "profile_image": "data:image/jpeg;base64,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"
+    }
+  ],
+  "joining_details": {
+    "joining_date": {
+      "$date": "2021-02-22T12:00:00Z"
+    },
+    "probation_period": null,
+    "confirmation_date": null
+  },
+  "address": {
+    "present_contact_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b015"
+      },
+      "address": {
+        "address": null,
+        "state": null,
+        "country": null,
+        "pincode": null
+      }
+    },
+    "primary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b016"
+      }
+    },
+    "secondary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b017"
+      }
+    },
+    "permanent_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b018"
+      }
+    }
+  },
+  "resignation_detail": [
+    {},
+    {}
+  ],
+  "module_permission": {
+    "holiday": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b019"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "leave": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01a"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01b"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": false,
+        "export": false
+      }
+    },
+    "project": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01c"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "task": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01d"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    },
+    "chat": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01e"
+      },
+      "permission": {
+        "read": true,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "asset": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01f"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": true
+      }
+    },
+    "timing_sheet": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b020"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4affa"
+  },
+  "is_manager": false,
+  "email": "learncode76@gmail.com",
+  "employee_id": "1",
+  "phone": "8707324838",
+  "basic_info": [
+    null,
+    {
+      "date_of_birth": null
+    },
+    {
+      "first_name": "Abhay",
+      "last_name": "Pratp",
+      "username": "ap",
+      "company": "1",
+      "department": "1",
+      "designation": "1",
+      "reports_to": "techprint.in@gmail.com",
+      "gender": "1",
+      "profile_image": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/profile_user.jpg"
+    }
+  ],
+  "joining_details": {
+    "joining_date": {
+      "$date": "2021-02-12T12:00:00Z"
+    },
+    "probation_period": null,
+    "confirmation_date": null
+  },
+  "address": {
+    "present_contact_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4affb"
+      },
+      "address": {
+        "address": null,
+        "state": null,
+        "country": null,
+        "pincode": null
+      }
+    },
+    "primary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4affc"
+      }
+    },
+    "secondary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4affd"
+      }
+    },
+    "permanent_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4affe"
+      }
+    }
+  },
+  "resignation_detail": [
+    {},
+    {}
+  ],
+  "module_permission": {
+    "holiday": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4afff"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "leave": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b000"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b001"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": false,
+        "export": false
+      }
+    },
+    "project": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b002"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "task": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b003"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    },
+    "chat": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b004"
+      },
+      "permission": {
+        "read": true,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "asset": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b005"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": true
+      }
+    },
+    "timing_sheet": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b006"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    }
+  },
+  "__v": 0
+}]
