@@ -1,0 +1,717 @@
+[{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b007"
+  },
+  "is_manager": true,
+  "email": "techprint.in@gmail.com",
+  "employee_id": "2",
+  "phone": "8278778788",
+  "basic_info": {
+    "0": null,
+    "1": {
+      "date_of_birth": {
+        "$date": "2021-03-02T00:00:00Z"
+      },
+      "passport_expiry_date": {
+        "$date": "2021-03-04T00:00:00Z"
+      }
+    },
+    "2": {
+      "first_name": "Rachit Kumar",
+      "last_name": "Tewari",
+      "username": "rkt",
+      "company": "1",
+      "department": "1",
+      "designation": "3",
+      "reports_to": "dummy632000@gmail.com",
+      "gender": "1",
+      "profile_image": "http://localhost:8000/images/employee/profile_information_user_image_techprint.in@gmail.com.jpg",
+      "employment_of_spouse": "NA",
+      "marital_status": "Single",
+      "nationality": "Indian",
+      "number_of_children": "NA",
+      "passport_number": "SDDBGJNJJ324-23",
+      "religion": "Hindu",
+      "telephone_number": "NA"
+    }
+  },
+  "educational_qualification": {},
+  "joining_details": {
+    "joining_date": {
+      "$date": "2020-01-23T12:00:00Z"
+    },
+    "probation_period": null,
+    "confirmation_date": null
+  },
+  "address": {
+    "present_contact_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b008"
+      },
+      "address": {
+        "address": "A-D, Dewas Grah, Near Pent House",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "pincode": "453123"
+      }
+    },
+    "primary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b009"
+      },
+      "address": {
+        "name": "Simran",
+        "relationship": "Sister",
+        "required_phone": "8982398299",
+        "phone": "8392893923"
+      }
+    },
+    "secondary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00a"
+      },
+      "address": {
+        "name": "Sahil",
+        "relationship": "Brother",
+        "required_phone": "7982392839",
+        "phone": ""
+      }
+    },
+    "permanent_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00b"
+      }
+    }
+  },
+  "resignation_detail": {
+    "0": {},
+    "1": {}
+  },
+  "career_history": {},
+  "module_permission": {
+    "holiday": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00c"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "leave": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00d"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00e"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": false,
+        "export": false
+      }
+    },
+    "project": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b00f"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "task": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b010"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    },
+    "chat": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b011"
+      },
+      "permission": {
+        "read": true,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "asset": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b012"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": true
+      }
+    },
+    "timing_sheet": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b013"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b021"
+  },
+  "is_manager": true,
+  "email": "dummy632000@gmail.com",
+  "employee_id": "4",
+  "phone": "7873982738",
+  "basic_info": {
+    "0": null,
+    "1": {
+      "date_of_birth": null
+    },
+    "2": {
+      "first_name": "Aditi",
+      "last_name": "Singh",
+      "username": "aditi",
+      "company": "1",
+      "department": "1",
+      "designation": "2",
+      "reports_to": null,
+      "gender": "1",
+      "profile_image": "http://localhost:8000/images/employee/profile_information_user_image_dummy632000@gmail.com.jpg"
+    }
+  },
+  "educational_qualification": null,
+  "joining_details": {
+    "joining_date": {
+      "$date": "2009-01-31T12:00:00Z"
+    },
+    "probation_period": null,
+    "confirmation_date": null
+  },
+  "address": {
+    "present_contact_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b022"
+      },
+      "address": {
+        "address": null,
+        "state": null,
+        "country": null,
+        "pincode": null
+      }
+    },
+    "primary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b023"
+      }
+    },
+    "secondary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b024"
+      }
+    },
+    "permanent_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b025"
+      }
+    }
+  },
+  "resignation_detail": {
+    "0": {},
+    "1": {}
+  },
+  "career_history": null,
+  "module_permission": {
+    "holiday": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b026"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "leave": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b027"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b028"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": false,
+        "export": false
+      }
+    },
+    "project": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b029"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "task": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b02a"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    },
+    "chat": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b02b"
+      },
+      "permission": {
+        "read": true,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "asset": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b02c"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": true
+      }
+    },
+    "timing_sheet": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b02d"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b014"
+  },
+  "is_manager": false,
+  "email": "raju80968@gmail.com",
+  "employee_id": "3",
+  "phone": "8247337233",
+  "basic_info": {
+    "0": null,
+    "1": {
+      "date_of_birth": null
+    },
+    "2": {
+      "first_name": "Karan",
+      "last_name": null,
+      "username": "k",
+      "company": "1",
+      "department": "1",
+      "designation": "3",
+      "reports_to": "techprint.in@gmail.com",
+      "gender": "1",
+      "profile_image": "http://localhost:8000/images/employee/profile_information_user_image_raju80968@gmail.com.jpg"
+    }
+  },
+  "educational_qualification": null,
+  "joining_details": {
+    "joining_date": {
+      "$date": "2021-02-22T12:00:00Z"
+    },
+    "probation_period": null,
+    "confirmation_date": null
+  },
+  "address": {
+    "present_contact_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b015"
+      },
+      "address": {
+        "address": null,
+        "state": null,
+        "country": null,
+        "pincode": null
+      }
+    },
+    "primary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b016"
+      }
+    },
+    "secondary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b017"
+      }
+    },
+    "permanent_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b018"
+      }
+    }
+  },
+  "resignation_detail": {
+    "0": {},
+    "1": {}
+  },
+  "career_history": null,
+  "module_permission": {
+    "holiday": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b019"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "leave": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01a"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01b"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": false,
+        "export": false
+      }
+    },
+    "project": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01c"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "task": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01d"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    },
+    "chat": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01e"
+      },
+      "permission": {
+        "read": true,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "asset": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b01f"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": true
+      }
+    },
+    "timing_sheet": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b020"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4affa"
+  },
+  "is_manager": false,
+  "email": "learncode76@gmail.com",
+  "employee_id": "1",
+  "phone": "8707324838",
+  "basic_info": {
+    "0": null,
+    "1": {
+      "date_of_birth": null
+    },
+    "2": {
+      "first_name": "Abhay",
+      "last_name": "Pratp",
+      "username": "ap",
+      "company": "1",
+      "department": "1",
+      "designation": "1",
+      "reports_to": "techprint.in@gmail.com",
+      "gender": "1",
+      "profile_image": "http://localhost:8000/images/employee/profile_information_user_image_learncode76@gmail.com.jpg"
+    }
+  },
+  "educational_qualification": null,
+  "joining_details": {
+    "joining_date": {
+      "$date": "2021-02-12T12:00:00Z"
+    },
+    "probation_period": null,
+    "confirmation_date": null
+  },
+  "address": {
+    "present_contact_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4affb"
+      },
+      "address": {
+        "address": null,
+        "state": null,
+        "country": null,
+        "pincode": null
+      }
+    },
+    "primary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4affc"
+      }
+    },
+    "secondary_emergency_contact": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4affd"
+      }
+    },
+    "permanent_address": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4affe"
+      }
+    }
+  },
+  "resignation_detail": {
+    "0": {},
+    "1": {}
+  },
+  "career_history": null,
+  "module_permission": {
+    "holiday": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4afff"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "leave": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b000"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b001"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": false,
+        "export": false
+      }
+    },
+    "project": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b002"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": true,
+        "export": true
+      }
+    },
+    "task": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b003"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    },
+    "chat": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b004"
+      },
+      "permission": {
+        "read": true,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": false
+      }
+    },
+    "asset": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b005"
+      },
+      "permission": {
+        "read": false,
+        "write": false,
+        "create": false,
+        "delete": false,
+        "import": false,
+        "export": true
+      }
+    },
+    "timing_sheet": {
+      "_id": {
+        "$oid": "605c8a0283d6f01544d4b006"
+      },
+      "permission": {
+        "read": true,
+        "write": true,
+        "create": true,
+        "delete": true,
+        "import": true,
+        "export": true
+      }
+    }
+  },
+  "__v": 0
+}]

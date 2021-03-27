@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6049d3f0c66f8c6e34ac4396"
+  },
+  "designation_id": "1",
+  "designation_name": "Web Designer"
+},{
+  "_id": {
+    "$oid": "6049d526c66f8c6e34ac4399"
+  },
+  "designation_id": "2",
+  "designation_name": "Web Developer"
+},{
+  "_id": {
+    "$oid": "6049d561c66f8c6e34ac439a"
+  },
+  "designation_id": "3",
+  "designation_name": "Android Developer"
+}]

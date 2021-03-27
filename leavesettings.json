@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "605d86a0611baa2350277212"
+  },
+  "type": "Annual",
+  "is_active": true,
+  "number_of_days": 12,
+  "is_carry_forward_allowed": true,
+  "max_carry_forward": 4,
+  "is_earned_leave": true,
+  "is_custom_policy_allowed": true,
+  "given_to_female": true,
+  "given_to_male": true,
+  "given_to_other": true
+},{
+  "_id": {
+    "$oid": "605d883b4febbd2f74ed8063"
+  },
+  "type": "Sick",
+  "is_active": true,
+  "number_of_days": 8,
+  "is_carry_forward_allowed": false,
+  "max_carry_forward": null,
+  "is_earned_leave": false,
+  "is_custom_policy_allowed": false,
+  "given_to_female": true,
+  "given_to_male": true,
+  "given_to_other": true
+},{
+  "_id": {
+    "$oid": "605d886f4febbd2f74ed8064"
+  },
+  "type": "Hospitalisation",
+  "is_active": true,
+  "number_of_days": 10,
+  "is_carry_forward_allowed": false,
+  "max_carry_forward": null,
+  "is_earned_leave": false,
+  "is_custom_policy_allowed": true
+},{
+  "_id": {
+    "$oid": "605d88b24febbd2f74ed8065"
+  },
+  "type": "Maternity",
+  "is_active": true,
+  "number_of_days": 180,
+  "is_carry_forward_allowed": false,
+  "max_carry_forward": null,
+  "is_earned_leave": false,
+  "is_custom_policy_allowed": false,
+  "given_to_female": true,
+  "given_to_male": false,
+  "given_to_other": false
+},{
+  "_id": {
+    "$oid": "605d88d44febbd2f74ed8066"
+  },
+  "type": "Paternity",
+  "is_active": true,
+  "number_of_days": 90,
+  "is_carry_forward_allowed": false,
+  "max_carry_forward": null,
+  "is_earned_leave": false,
+  "is_custom_policy_allowed": false,
+  "given_to_female": false,
+  "given_to_male": true,
+  "given_to_other": false
+},{
+  "_id": {
+    "$oid": "605d89584febbd2f74ed8067"
+  },
+  "type": "LOP",
+  "is_active": false,
+  "number_of_days": 2,
+  "is_carry_forward_allowed": true,
+  "max_carry_forward": 2,
+  "is_earned_leave": true,
+  "is_custom_policy_allowed": true,
+  "given_to_female": true,
+  "given_to_male": true,
+  "given_to_other": true
+}]

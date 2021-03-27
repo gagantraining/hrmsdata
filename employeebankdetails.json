@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b032"
+  },
+  "bank_name": "",
+  "bank_account_number": "",
+  "bank_ifsc_code": "",
+  "employee_pan_number": "",
+  "email": "techprint.in@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b033"
+  },
+  "bank_name": "",
+  "bank_account_number": "",
+  "bank_ifsc_code": "",
+  "employee_pan_number": "",
+  "email": "dummy632000@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b036"
+  },
+  "bank_name": "",
+  "bank_account_number": "",
+  "bank_ifsc_code": "",
+  "employee_pan_number": "",
+  "email": "raju80968@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b037"
+  },
+  "bank_name": "",
+  "bank_account_number": "",
+  "bank_ifsc_code": "",
+  "employee_pan_number": "",
+  "email": "learncode76@gmail.com",
+  "__v": 0
+}]

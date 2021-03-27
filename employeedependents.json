@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b034"
+  },
+  "number_of_dependent": 1,
+  "email": "techprint.in@gmail.com",
+  "__v": 0,
+  "dependent": {
+    "8274878247": {
+      "_id": {
+        "$oid": "605c90315bf4e20ee4518389"
+      },
+      "name": "Sheetal",
+      "relationship": "Brother",
+      "date_of_birth": {
+        "$date": "2021-03-04T00:00:00Z"
+      }
+    }
+  }
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b035"
+  },
+  "number_of_dependent": 0,
+  "email": "dummy632000@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b038"
+  },
+  "number_of_dependent": 0,
+  "email": "raju80968@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605c8a0283d6f01544d4b039"
+  },
+  "number_of_dependent": 0,
+  "email": "learncode76@gmail.com",
+  "__v": 0
+}]

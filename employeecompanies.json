@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6049d3f0c66f8c6e34ac4396"
+  },
+  "company_id": "1",
+  "company_name": "Global Technologies"
+},{
+  "_id": {
+    "$oid": "604a0ccbc66f8c6e34ac439b"
+  },
+  "company_id": "2",
+  "company_name": "Delta Infotech"
+},{
+  "_id": {
+    "$oid": "604a0d14c66f8c6e34ac439c"
+  },
+  "company_id": "3",
+  "company_name": "International Software Inc"
+}]
