@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "6061f41193cbbf1d908fd711"
+  },
+  "email": "raju80968@gmail.com",
+  "leave": {
+    "Sick Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd712"
+      },
+      "pending": 0
+    },
+    "LOP": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd713"
+      },
+      "total": 20,
+      "remaining": 20,
+      "pending": 0
+    },
+    "Marriage Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd714"
+      },
+      "total": 7,
+      "remaining": 7,
+      "pending": 0
+    },
+    "Exceptional Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd715"
+      },
+      "total": 3,
+      "remaining": 3,
+      "pending": 0
+    },
+    "Bereavement Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd716"
+      },
+      "total": 3,
+      "remaining": 2,
+      "pending": 1
+    }
+  },
+  "__v": 0,
+  "applied_leave": {
+    "29/3/2021, 9:26:00 pm": {
+      "_id": {
+        "$oid": "6061f89093cbbf1d908fd9b6"
+      },
+      "type": "Bereavement Leave",
+      "from": {
+        "$date": "2021-03-03T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-04T00:00:00Z"
+      },
+      "number_of_days": 1,
+      "reason": "Bereavement Leave",
+      "request_under": "techprint.in@gmail.com",
+      "status": "Pending"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6061f41193cbbf1d908fd717"
+  },
+  "email": "dummy632000@gmail.com",
+  "leave": {
+    "Sick Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd718"
+      },
+      "pending": 0
+    },
+    "LOP": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd719"
+      },
+      "total": 20,
+      "remaining": 20,
+      "pending": 0
+    },
+    "Marriage Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd71a"
+      },
+      "total": 7,
+      "remaining": 7,
+      "pending": 0
+    },
+    "Exceptional Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd71b"
+      },
+      "total": 3,
+      "remaining": 3,
+      "pending": 0
+    },
+    "Bereavement Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd71c"
+      },
+      "total": 3,
+      "remaining": 3,
+      "pending": 0
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6061f41193cbbf1d908fd71d"
+  },
+  "email": "learncode76@gmail.com",
+  "leave": {
+    "Sick Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd71e"
+      },
+      "pending": 0
+    },
+    "LOP": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd71f"
+      },
+      "total": 20,
+      "remaining": 20,
+      "pending": 0
+    },
+    "Marriage Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd720"
+      },
+      "total": 7,
+      "remaining": 7,
+      "pending": 0
+    },
+    "Exceptional Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd721"
+      },
+      "total": 3,
+      "remaining": 3,
+      "pending": 0
+    },
+    "Bereavement Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd722"
+      },
+      "total": 3,
+      "remaining": 3,
+      "pending": 0
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6061f41193cbbf1d908fd723"
+  },
+  "email": "techprint.in@gmail.com",
+  "leave": {
+    "Sick Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd724"
+      },
+      "pending": 0
+    },
+    "LOP": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd725"
+      },
+      "total": 20,
+      "remaining": 20,
+      "pending": 0
+    },
+    "Marriage Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd726"
+      },
+      "total": 7,
+      "remaining": 7,
+      "pending": 0
+    },
+    "Exceptional Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd727"
+      },
+      "total": 3,
+      "remaining": 3,
+      "pending": 0
+    },
+    "Bereavement Leave": {
+      "_id": {
+        "$oid": "6061f41193cbbf1d908fd728"
+      },
+      "total": 3,
+      "remaining": 3,
+      "pending": 0
+    }
+  },
+  "__v": 0
+}]

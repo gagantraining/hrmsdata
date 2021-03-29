@@ -3,7 +3,7 @@
     "$oid": "605d86a0611baa2350277212"
   },
   "type": "Annual",
-  "number_of_days": 41,
+  "number_of_days": 46,
   "is_carry_forward_allowed": false,
   "max_carry_forward": 5,
   "is_earned_leave": false
@@ -39,7 +39,7 @@
   },
   "type": "LOP",
   "is_active": true,
-  "number_of_days": 15,
+  "number_of_days": 20,
   "is_carry_forward_allowed": true,
   "max_carry_forward": 10,
   "is_earned_leave": false
@@ -56,7 +56,7 @@
   },
   "type": "Marriage Leave",
   "is_active": true,
-  "number_of_days": 5
+  "number_of_days": 7
 },{
   "_id": {
     "$oid": "60602d4301eaa2c712665bf4"
