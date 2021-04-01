@@ -1,69 +1,5 @@
 [{
   "_id": {
-    "$oid": "6061f41193cbbf1d908fd711"
-  },
-  "email": "raju80968@gmail.com",
-  "leave": {
-    "Sick Leave": {
-      "_id": {
-        "$oid": "6061f41193cbbf1d908fd712"
-      },
-      "pending": 0
-    },
-    "LOP": {
-      "_id": {
-        "$oid": "6061f41193cbbf1d908fd713"
-      },
-      "total": 20,
-      "remaining": 20,
-      "pending": 0
-    },
-    "Marriage Leave": {
-      "_id": {
-        "$oid": "6061f41193cbbf1d908fd714"
-      },
-      "total": 7,
-      "remaining": 7,
-      "pending": 0
-    },
-    "Exceptional Leave": {
-      "_id": {
-        "$oid": "6061f41193cbbf1d908fd715"
-      },
-      "total": 3,
-      "remaining": 3,
-      "pending": 0
-    },
-    "Bereavement Leave": {
-      "_id": {
-        "$oid": "6061f41193cbbf1d908fd716"
-      },
-      "total": 3,
-      "remaining": 2,
-      "pending": 1
-    }
-  },
-  "__v": 0,
-  "applied_leave": {
-    "29/3/2021, 9:26:00 pm": {
-      "_id": {
-        "$oid": "6061f89093cbbf1d908fd9b6"
-      },
-      "type": "Bereavement Leave",
-      "from": {
-        "$date": "2021-03-03T00:00:00Z"
-      },
-      "to": {
-        "$date": "2021-03-04T00:00:00Z"
-      },
-      "number_of_days": 1,
-      "reason": "Bereavement Leave",
-      "request_under": "techprint.in@gmail.com",
-      "status": "Pending"
-    }
-  }
-},{
-  "_id": {
     "$oid": "6061f41193cbbf1d908fd717"
   },
   "email": "dummy632000@gmail.com",
@@ -86,28 +22,47 @@
       "_id": {
         "$oid": "6061f41193cbbf1d908fd71a"
       },
-      "total": 7,
-      "remaining": 7,
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     },
     "Exceptional Leave": {
       "_id": {
         "$oid": "6061f41193cbbf1d908fd71b"
       },
-      "total": 3,
-      "remaining": 3,
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     },
     "Bereavement Leave": {
       "_id": {
         "$oid": "6061f41193cbbf1d908fd71c"
       },
-      "total": 3,
-      "remaining": 3,
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     }
   },
-  "__v": 0
+  "__v": 0,
+  "leave_under_request": {
+    "10 31/3/2021, 5:19:50 pm": {
+      "_id": {
+        "$oid": "606461df0e4ecf357c6cee98"
+      },
+      "type": "Exceptional Leave",
+      "from": {
+        "$date": "2021-03-03T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-04T00:00:00Z"
+      },
+      "number_of_days": 1,
+      "reason": "Exception",
+      "requested_by": "rkt3011@gmail.com",
+      "status": "Pending",
+      "key_requested_leave": "10 31/3/2021, 5:19:50 pm"
+    }
+  }
 },{
   "_id": {
     "$oid": "6061f41193cbbf1d908fd71d"
@@ -132,43 +87,43 @@
       "_id": {
         "$oid": "6061f41193cbbf1d908fd720"
       },
-      "total": 7,
-      "remaining": 7,
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     },
     "Exceptional Leave": {
       "_id": {
         "$oid": "6061f41193cbbf1d908fd721"
       },
-      "total": 3,
-      "remaining": 3,
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     },
     "Bereavement Leave": {
       "_id": {
         "$oid": "6061f41193cbbf1d908fd722"
       },
-      "total": 3,
-      "remaining": 3,
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     }
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "6061f41193cbbf1d908fd723"
+    "$oid": "6062ed1c9f9e20412c73eccc"
   },
-  "email": "techprint.in@gmail.com",
+  "email": "rkt3011@gmail.com",
   "leave": {
     "Sick Leave": {
       "_id": {
-        "$oid": "6061f41193cbbf1d908fd724"
+        "$oid": "6062ed1c9f9e20412c73eccd"
       },
       "pending": 0
     },
     "LOP": {
       "_id": {
-        "$oid": "6061f41193cbbf1d908fd725"
+        "$oid": "6062ed1c9f9e20412c73ecce"
       },
       "total": 20,
       "remaining": 20,
@@ -176,28 +131,279 @@
     },
     "Marriage Leave": {
       "_id": {
-        "$oid": "6061f41193cbbf1d908fd726"
+        "$oid": "6062ed1c9f9e20412c73eccf"
       },
-      "total": 7,
-      "remaining": 7,
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     },
     "Exceptional Leave": {
       "_id": {
-        "$oid": "6061f41193cbbf1d908fd727"
+        "$oid": "6062ed1c9f9e20412c73ecd0"
       },
-      "total": 3,
-      "remaining": 3,
+      "total": 5,
+      "remaining": 4,
+      "pending": 1
+    },
+    "Bereavement Leave": {
+      "_id": {
+        "$oid": "6062ed1c9f9e20412c73ecd1"
+      },
+      "total": 5,
+      "remaining": 5,
+      "pending": 0
+    }
+  },
+  "__v": 0,
+  "applied_leave": {
+    "31/3/2021, 5:19:50 pm": {
+      "_id": {
+        "$oid": "606461de0e4ecf357c6cee92"
+      },
+      "type": "Exceptional Leave",
+      "from": {
+        "$date": "2021-03-03T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-04T00:00:00Z"
+      },
+      "number_of_days": 1,
+      "reason": "Exception",
+      "request_under": "dummy632000@gmail.com",
+      "status": "Pending",
+      "key_applied_leave": "31/3/2021, 5:19:50 pm"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "606416054b4c720adc1e4608"
+  },
+  "email": "techprint.in@gmail.com",
+  "leave": {
+    "Sick Leave": {
+      "_id": {
+        "$oid": "606416054b4c720adc1e4609"
+      },
+      "pending": 0
+    },
+    "LOP": {
+      "_id": {
+        "$oid": "606416054b4c720adc1e460a"
+      },
+      "total": 20,
+      "remaining": 20,
+      "pending": 0
+    },
+    "Marriage Leave": {
+      "_id": {
+        "$oid": "606416054b4c720adc1e460b"
+      },
+      "total": 5,
+      "remaining": 5,
+      "pending": 0
+    },
+    "Exceptional Leave": {
+      "_id": {
+        "$oid": "606416054b4c720adc1e460c"
+      },
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     },
     "Bereavement Leave": {
       "_id": {
-        "$oid": "6061f41193cbbf1d908fd728"
+        "$oid": "606416054b4c720adc1e460d"
       },
-      "total": 3,
-      "remaining": 3,
+      "total": 5,
+      "remaining": 5,
       "pending": 0
     }
   },
-  "__v": 0
+  "__v": 0,
+  "leave_under_request": {
+    "ui2 31/3/2021, 5:04:04 pm": {
+      "_id": {
+        "$oid": "60645e2ca512192b24c062c0"
+      },
+      "type": "LOP",
+      "from": {
+        "$date": "2021-03-03T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-05T00:00:00Z"
+      },
+      "number_of_days": 2,
+      "reason": "LOP",
+      "requested_by": "raju80968@gmail.com",
+      "status": "Approved",
+      "key_requested_leave": "ui2 31/3/2021, 5:04:04 pm"
+    },
+    "ui2 31/3/2021, 5:04:36 pm": {
+      "_id": {
+        "$oid": "60645e4ca512192b24c06316"
+      },
+      "type": "Marriage Leave",
+      "from": {
+        "$date": "2021-03-12T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-17T00:00:00Z"
+      },
+      "number_of_days": 5,
+      "reason": "Marriage",
+      "requested_by": "raju80968@gmail.com",
+      "status": "Approved",
+      "key_requested_leave": "ui2 31/3/2021, 5:04:36 pm"
+    },
+    "ui2 31/3/2021, 5:18:42 pm": {
+      "_id": {
+        "$oid": "6064619a0e4ecf357c6ced58"
+      },
+      "type": "LOP",
+      "from": {
+        "$date": "2021-03-02T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-11T00:00:00Z"
+      },
+      "number_of_days": 9,
+      "reason": "LOP",
+      "requested_by": "raju80968@gmail.com",
+      "status": "Declined",
+      "key_requested_leave": "ui2 31/3/2021, 5:18:42 pm"
+    },
+    "ui2 31/3/2021, 7:09:10 pm": {
+      "_id": {
+        "$oid": "60647b7e10f634325899e327"
+      },
+      "type": "Exceptional Leave",
+      "from": {
+        "$date": "2021-03-05T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-09T00:00:00Z"
+      },
+      "number_of_days": 4,
+      "reason": "Exceptional",
+      "requested_by": "raju80968@gmail.com",
+      "status": "Approved",
+      "key_requested_leave": "ui2 31/3/2021, 7:09:10 pm"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60645d86a512192b24c060de"
+  },
+  "email": "raju80968@gmail.com",
+  "leave": {
+    "Sick Leave": {
+      "_id": {
+        "$oid": "60645d86a512192b24c060df"
+      },
+      "pending": 0
+    },
+    "LOP": {
+      "_id": {
+        "$oid": "60645d86a512192b24c060e0"
+      },
+      "total": 20,
+      "remaining": 18,
+      "pending": 0
+    },
+    "Marriage Leave": {
+      "_id": {
+        "$oid": "60645d86a512192b24c060e1"
+      },
+      "total": 5,
+      "remaining": 0,
+      "pending": 0
+    },
+    "Exceptional Leave": {
+      "_id": {
+        "$oid": "60645d86a512192b24c060e2"
+      },
+      "total": 5,
+      "remaining": 1,
+      "pending": 0
+    },
+    "Bereavement Leave": {
+      "_id": {
+        "$oid": "60645d86a512192b24c060e3"
+      },
+      "total": 5,
+      "remaining": 5,
+      "pending": 0
+    }
+  },
+  "__v": 0,
+  "applied_leave": {
+    "31/3/2021, 5:04:04 pm": {
+      "_id": {
+        "$oid": "60645e2ca512192b24c062ba"
+      },
+      "type": "LOP",
+      "from": {
+        "$date": "2021-03-03T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-05T00:00:00Z"
+      },
+      "number_of_days": 2,
+      "reason": "LOP",
+      "request_under": "techprint.in@gmail.com",
+      "status": "Approved",
+      "key_applied_leave": "31/3/2021, 5:04:04 pm"
+    },
+    "31/3/2021, 5:04:36 pm": {
+      "_id": {
+        "$oid": "60645e4ca512192b24c0630f"
+      },
+      "type": "Marriage Leave",
+      "from": {
+        "$date": "2021-03-12T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-17T00:00:00Z"
+      },
+      "number_of_days": 5,
+      "reason": "Marriage",
+      "request_under": "techprint.in@gmail.com",
+      "status": "Approved",
+      "key_applied_leave": "31/3/2021, 5:04:36 pm"
+    },
+    "31/3/2021, 5:18:42 pm": {
+      "_id": {
+        "$oid": "6064619a0e4ecf357c6ced50"
+      },
+      "type": "LOP",
+      "from": {
+        "$date": "2021-03-02T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-11T00:00:00Z"
+      },
+      "number_of_days": 9,
+      "reason": "LOP",
+      "request_under": "techprint.in@gmail.com",
+      "status": "Declined",
+      "key_applied_leave": "31/3/2021, 5:18:42 pm"
+    },
+    "31/3/2021, 7:09:10 pm": {
+      "_id": {
+        "$oid": "60647b7e10f634325899e31e"
+      },
+      "type": "Exceptional Leave",
+      "from": {
+        "$date": "2021-03-05T00:00:00Z"
+      },
+      "to": {
+        "$date": "2021-03-09T00:00:00Z"
+      },
+      "number_of_days": 4,
+      "reason": "Exceptional",
+      "request_under": "techprint.in@gmail.com",
+      "status": "Approved",
+      "key_applied_leave": "31/3/2021, 7:09:10 pm"
+    }
+  }
 }]

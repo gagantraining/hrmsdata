@@ -4,58 +4,70 @@
   },
   "id": "af9cd776-9d43-45c1-88da-7ca18e038a0a",
   "is_super_admin": false,
-  "is_admin": false,
-  "is_employee": true,
+  "is_admin": true,
+  "is_employee": false,
   "is_first_login": false,
   "email": "a@gmail.com",
   "password": "$2b$10$oMSXI/IBaa6LJd6Wih0Y7OnmjK52rH.xY7b3JEuqA1Md00MfPfRh2",
   "__v": 0
 },{
   "_id": {
-    "$oid": "605c8a0283d6f01544d4b02e"
+    "$oid": "6061f41193cbbf1d908fd708"
   },
-  "id": "73f854cc-ea37-4cd9-ba94-0d39d977dbe4",
-  "is_super_admin": false,
-  "is_admin": false,
-  "is_employee": true,
-  "is_first_login": true,
-  "email": "techprint.in@gmail.com",
-  "password": "$2b$10$xsqoLJYIi2GCz7UwpjRwOOqIeX9n9P9NUOwp4WzerJgfNgVxRZSLq",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "605c8a0283d6f01544d4b02f"
-  },
-  "id": "73f854cc-ea37-4cd9-ba94-0d39d977dbe4",
+  "id": "20983b44-cc64-4f2e-8579-9b85e1d0d6e9",
   "is_super_admin": false,
   "is_admin": false,
   "is_employee": true,
   "is_first_login": true,
   "email": "dummy632000@gmail.com",
-  "password": "$2b$10$9qYVrcpOQ/TZw4.X5v.0Fe4jc.iIAga6V0.L4U2e21zSSTiQ0KJae",
+  "password": "$2b$10$voZ8X4OO/BI13vwn3GJuFudErgplZDjzluB/k1eax2gE5lTlFlwRe",
   "__v": 0
 },{
   "_id": {
-    "$oid": "605c8a0283d6f01544d4b030"
+    "$oid": "6061f41193cbbf1d908fd706"
   },
-  "id": "73f854cc-ea37-4cd9-ba94-0d39d977dbe4",
-  "is_super_admin": false,
-  "is_admin": false,
-  "is_employee": true,
-  "is_first_login": true,
-  "email": "raju80968@gmail.com",
-  "password": "$2b$10$Bo.Kn1zdstaKigHvDwpU5.3qx46L8XZ2Zk/GqgCa4EzcfQKbUis4.",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "605c8a0283d6f01544d4b031"
-  },
-  "id": "73f854cc-ea37-4cd9-ba94-0d39d977dbe4",
+  "id": "20983b44-cc64-4f2e-8579-9b85e1d0d6e9",
   "is_super_admin": false,
   "is_admin": false,
   "is_employee": true,
   "is_first_login": true,
   "email": "learncode76@gmail.com",
-  "password": "$2b$10$1qq7hrONO5CubXpcixZC8ePACjE49RLsv6LvvqUFwa6t8YrJxpSAO",
+  "password": "$2b$10$L2dp6yAwC6q49hP0tejhKuR6d6AQF4erf.IHtcLj4vuMvZEP1BD3e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6062ed1c9f9e20412c73ecc9"
+  },
+  "id": "46eb1dd5-7c13-4bc7-bbcb-96ff434ebc8b",
+  "is_super_admin": false,
+  "is_admin": false,
+  "is_employee": true,
+  "is_first_login": false,
+  "email": "rkt3011@gmail.com",
+  "password": "$2b$10$906IX9rYyYLU2omfUJk3KO72XuUhpTnVqAHYRY6OEufOD1Crr9smq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606416054b4c720adc1e4605"
+  },
+  "id": "7e946ce2-57e2-4958-ac55-8a3f18aa5839",
+  "is_super_admin": false,
+  "is_admin": false,
+  "is_employee": true,
+  "is_first_login": false,
+  "email": "techprint.in@gmail.com",
+  "password": "$2b$10$viBXJtAVH9wIYZcXdFcnDekdnXVbEWl.HUT79U5RE.WAaJBF3QaQy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60645d85a512192b24c060db"
+  },
+  "id": "b1a7c936-9873-456c-98be-75acde5b5d28",
+  "is_super_admin": false,
+  "is_admin": false,
+  "is_employee": true,
+  "is_first_login": false,
+  "email": "raju80968@gmail.com",
+  "password": "$2b$10$wKuSfFe3uVkCk1a1JWBfqeOXGiTJ3lanCIw9QynrEToTG64Vf9O9i",
   "__v": 0
 }]
