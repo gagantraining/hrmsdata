@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6066ad526b4a8e9dc8294edd"
+  },
+  "key": "user",
+  "access_level": {
+    "super_admin": 777,
+    "admin": 666,
+    "manager": 555,
+    "employee": 333
+  }
+},{
+  "_id": {
+    "$oid": "6066ada76b4a8e9dc8294ede"
+  },
+  "key": "api",
+  "access_level": {
+    "/admin/employee/add": 601,
+    "/admin/employee/update": 601,
+    "/admin/employee/basic_information": 601,
+    "/admin/employee/detailed_information": 601,
+    "/admin/employee/delete": 601,
+    "/admin/employee/add_multiple": 601,
+    "/admin/employee/filter": 601,
+    "/admin/employee/profile": 301,
+    "/admin/employee/profile/update_profile_info": 301,
+    "/admin/employee/profile/update_personal_info": 301,
+    "/admin/get_manager": 301,
+    "/admin/employee/profile/update_emergency_contact": 301,
+    "/admin/employee/bank/get_detail": 301,
+    "/admin/employee/dependent/get_detail": 301,
+    "/admin/employee/dependent/add": 301,
+    "/admin/employee/dependent/delete": 301,
+    "/admin/employee/dependent/update": 301,
+    "/admin/employee/education/add": 301,
+    "/admin/employee/education/delete": 301,
+    "/admin/employee/education/update": 301,
+    "/admin/employee/experience/add": 301,
+    "/admin/employee/experience/delete": 301,
+    "/admin/employee/experience/update": 301,
+    "/leave/setting/get": 601,
+    "/leave/setting/toggle": 601,
+    "/leave/setting/update": 601,
+    "/leave/employee/get": 301,
+    "/leave/employee/request": 301,
+    "/leave/employee/applied/get": 301,
+    "/leave/manager/request/get": 501,
+    "/leave/manager/request/update/status": 501,
+    "/leave/employee/request/delete": 301,
+    "/admin/employee/profile/update_profile_picture": 301,
+    "/leave/manager/request/filter": 501
+  }
+}]

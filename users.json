@@ -9,7 +9,8 @@
   "is_first_login": false,
   "email": "a@gmail.com",
   "password": "$2b$10$oMSXI/IBaa6LJd6Wih0Y7OnmjK52rH.xY7b3JEuqA1Md00MfPfRh2",
-  "__v": 0
+  "__v": 0,
+  "is_manager": false
 },{
   "_id": {
     "$oid": "6061f41193cbbf1d908fd708"
@@ -21,7 +22,8 @@
   "is_first_login": true,
   "email": "dummy632000@gmail.com",
   "password": "$2b$10$voZ8X4OO/BI13vwn3GJuFudErgplZDjzluB/k1eax2gE5lTlFlwRe",
-  "__v": 0
+  "__v": 0,
+  "is_manager": true
 },{
   "_id": {
     "$oid": "6061f41193cbbf1d908fd706"
@@ -33,7 +35,8 @@
   "is_first_login": true,
   "email": "learncode76@gmail.com",
   "password": "$2b$10$L2dp6yAwC6q49hP0tejhKuR6d6AQF4erf.IHtcLj4vuMvZEP1BD3e",
-  "__v": 0
+  "__v": 0,
+  "is_manager": false
 },{
   "_id": {
     "$oid": "6062ed1c9f9e20412c73ecc9"
@@ -45,7 +48,8 @@
   "is_first_login": false,
   "email": "rkt3011@gmail.com",
   "password": "$2b$10$906IX9rYyYLU2omfUJk3KO72XuUhpTnVqAHYRY6OEufOD1Crr9smq",
-  "__v": 0
+  "__v": 0,
+  "is_manager": false
 },{
   "_id": {
     "$oid": "606416054b4c720adc1e4605"
@@ -57,7 +61,8 @@
   "is_first_login": false,
   "email": "techprint.in@gmail.com",
   "password": "$2b$10$viBXJtAVH9wIYZcXdFcnDekdnXVbEWl.HUT79U5RE.WAaJBF3QaQy",
-  "__v": 0
+  "__v": 0,
+  "is_manager": true
 },{
   "_id": {
     "$oid": "60645d85a512192b24c060db"
@@ -69,5 +74,6 @@
   "is_first_login": false,
   "email": "raju80968@gmail.com",
   "password": "$2b$10$wKuSfFe3uVkCk1a1JWBfqeOXGiTJ3lanCIw9QynrEToTG64Vf9O9i",
-  "__v": 0
+  "__v": 0,
+  "is_manager": false
 }]
