@@ -48,6 +48,10 @@
     "/leave/manager/request/update/status": 501,
     "/leave/employee/request/delete": 301,
     "/admin/employee/profile/update_profile_picture": 301,
-    "/leave/manager/request/filter": 501
+    "/leave/manager/request/filter": 501,
+    "/holiday/get": 301,
+    "/holiday/add": 601,
+    "/holiday/edit": 601,
+    "/holiday/delete": 601
   }
 }]
