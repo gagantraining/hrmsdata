@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "606f0e9366b94d4274360361"
+  },
+  "email": "raju80968@gmail.com",
+  "appraisal_date": {
+    "$date": "2021-04-09T00:00:00Z"
+  },
+  "status": "Active",
+  "technical_competencies": {
+    "customer_experience_expected_value": "Beginner",
+    "customer_experience_actual_value": "Intermediate",
+    "marketing_expected_value": "Intermediate",
+    "marketing_actual_value": "Beginner",
+    "management_expected_value": "Intermediate",
+    "management_actual_value": "Expert / Leader",
+    "administration_expected_value": "Intermediate",
+    "administration_actual_value": "Beginner",
+    "presentation_skill_expected_value": "Intermediate",
+    "presentation_skill_actual_value": "Intermediate",
+    "quality_of_work_expected_value": "Advanced",
+    "quality_of_work_actual_value": "Intermediate",
+    "efficiency_expected_value": "Beginner",
+    "efficiency_actual_value": "Beginner"
+  },
+  "organisational_competencies": {
+    "integrity_expected_value": "Beginner",
+    "integrity_actual_value": "Beginner",
+    "professionalism_expected_value": "Beginner",
+    "professionalism_actual_value": "Intermediate",
+    "team_work_expected_value": "Intermediate",
+    "team_work_actual_value": "Beginner",
+    "critical_thinking_expected_value": "Beginner",
+    "critical_thinking_actual_value": "Beginner",
+    "conflict_management_expected_value": "Intermediate",
+    "conflict_management_actual_value": "Intermediate",
+    "attendance_expected_value": "Intermediate",
+    "attendance_actual_value": "Beginner",
+    "ability_to_meet_deadline_expected_value": "Intermediate",
+    "ability_to_meet_deadline_actual_value": "Beginner"
+  },
+  "__v": 0
+}]

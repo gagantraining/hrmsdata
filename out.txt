@@ -1,0 +1,13 @@
+mongoimport --db hrmsDB --collection authorizationmodels --file authorizationmodels.json --jsonArray
+mongoimport --db hrmsDB --collection employeebankdetails --file employeebankdetails.json --jsonArray
+mongoimport --db hrmsDB --collection employeecompanies --file employeecompanies.json --jsonArray
+mongoimport --db hrmsDB --collection employeedepartments --file employeedepartments.json --jsonArray
+mongoimport --db hrmsDB --collection employeedependents --file employeedependents.json --jsonArray
+mongoimport --db hrmsDB --collection employeedesignations --file employeedesignations.json --jsonArray
+mongoimport --db hrmsDB --collection employeegenders --file employeegenders.json --jsonArray
+mongoimport --db hrmsDB --collection employeeleaves --file employeeleaves.json --jsonArray
+mongoimport --db hrmsDB --collection employees --file employees.json --jsonArray
+mongoimport --db hrmsDB --collection employeesnew --file employeesnew.json --jsonArray
+mongoimport --db hrmsDB --collection leavesettings --file leavesettings.json --jsonArray
+mongoimport --db hrmsDB --collection performanceappraisals --file performanceappraisals.json --jsonArray
+mongoimport --db hrmsDB --collection users --file users.json --jsonArray

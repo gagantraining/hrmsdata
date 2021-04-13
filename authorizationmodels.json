@@ -52,6 +52,12 @@
     "/holiday/get": 301,
     "/holiday/add": 601,
     "/holiday/edit": 601,
-    "/holiday/delete": 601
+    "/holiday/delete": 601,
+    "/admin/performance/appraisal/get": 601,
+    "/admin/performance/appraisal/add": 601,
+    "/admin/performance/appraisal/toggle_status": 601,
+    "/admin/performance/appraisal/delete": 601,
+    "/admin/performance/appraisal/get_detailed": 601,
+    "/admin/performance/appraisal/update": 601
   }
 }]
